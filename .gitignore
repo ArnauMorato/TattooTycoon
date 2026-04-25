@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Envs
+.env
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Godot
+.godot/
+.import/
+*.import
+export_presets.cfg
